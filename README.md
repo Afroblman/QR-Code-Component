@@ -8,8 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Afroblman/QR-Code-Component?tab=readme-ov-file)
+- Live Site URL: [Netlify](https://qr-code-component-fronend-mentor.netlify.app/)
 
 ### Built with
 
@@ -19,6 +19,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Afroblman](https://www.frontendmentor.io/profile/Afroblman)
 
 
